@@ -4,3 +4,9 @@
 .httr-oauth
 .DS_Store
 .quarto
+Manuscript/
+Output/
+Presentation.Rmd
+arresø.html
+.Rproj
+P-model.R
